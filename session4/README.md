@@ -14,7 +14,7 @@ Unlike HTML and CSS where you can see what changes you make in your Codepen.IO w
 * IE: Tools -> Developer Tools (click on Scripts tab or Console tab, depending on the IE version)
 
 ## Setting up JSFiddle
-On the leftside of the page, be sure to select "No wrap - in <head>" for the second dropdown under "Frameworks & Extensions." This will ensure that all of your javascript functions and variables will be available after the page is loaded.
+On the leftside of the page, be sure to select ``No wrap - in <head>`` for the second dropdown under "Frameworks & Extensions." This will ensure that all of your javascript functions and variables will be available after the page is loaded.
 
 ![JavaScript setting](../screenshots/js-option.png)
 
