@@ -16,6 +16,8 @@ This course is intended to be a first time introduction to HTML/CSS and beyond. 
 
 [:rocket: Day 5][4]: Interactive HTML with JavaScript
 
+[:rocket: Day 6][5]: Introduction to jQuery
+
 
 
 [0]: session1/
@@ -23,3 +25,4 @@ This course is intended to be a first time introduction to HTML/CSS and beyond. 
 [2]: session3/
 [3]: session4/
 [4]: session5/
+[5]: session6/
